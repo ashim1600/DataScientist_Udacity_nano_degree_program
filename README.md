@@ -27,3 +27,5 @@ allMatches.csv contains information on each game from 2008 to 2019. </br>
 Delivery.csv contains ball-by-ball information for each game from 2008 to 2019.
 ## Results<a name="results"></a>
 The main findings of the code can be found at the post available https://medium.com/@ashimshrm/study-of-indian-premier-league-data-f68b04d5563c in this blog.
+## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+For the statistics, Kaggle and Navaneesh Kumar deserve praise. [here](https://www.kaggle.com/nowke9) for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/nowke9/ipldata).  Otherwise, feel free to use the code here as you would like!

@@ -26,4 +26,4 @@ Data analysis and modeling are contained in the notebook **IPL Predictive Analyt
 allMatches.csv contains information on each game from 2008 to 2019. </br>
 Delivery.csv contains ball-by-ball information for each game from 2008 to 2019.
 ## Results<a name="results"></a>
-The main findings of the code can be found at the post available inside the project files.
+The main findings of the code can be found at the post available https://medium.com/@ashimshrm/study-of-indian-premier-league-data-f68b04d5563c in this blog.
